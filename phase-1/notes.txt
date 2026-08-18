@@ -1,0 +1,9 @@
+Backend engineering is the part of software that I respect the most because it is the foundation that everything else depends on. People see the interface, the colors, the animations, and the buttons, but they do not see the systems processing requests, storing data, handling failures, and keeping everything running. That is the part that interests me.
+
+I enjoy thinking about how systems work. I like asking why something works, what happens if it fails, and how it can be built to handle more users without falling apart. I want to build backend systems that are reliable, scalable, and able to support real products used by real people.
+
+What attracts me most is the challenge. I want to become the kind of engineer who understands the systems they build. If something goes wrong at 2 a.m., I want to be able to investigate it, understand the root cause, and fix it because I know how my system works. AI is a tool that I will use, but I do not want to depend on it to think for me. I want to develop my own ability to reason through problems and make good engineering decisions.
+
+I also want to build AI products, integrate AI into applications, and understand how these systems work. Backend engineering gives me the foundation to do that. It allows me to build the infrastructure that makes those products reliable and useful.
+
+More than anything, I want to become the Arthur I envision. An engineer who solves real problems, thinks in systems, understands the code he writes, and builds software that people can depend on. Even if nobody knows my name, the systems I build will speak for the work I have done.
