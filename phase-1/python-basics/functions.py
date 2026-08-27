@@ -7,7 +7,7 @@ def classify_age(age):
     print("Child")
 
 result = classify_age(20)
-# print(result)
+print(result)
 # result = classify_age(15)
 # print(result)
 # result = classify_age(5)
@@ -15,14 +15,14 @@ result = classify_age(20)
 # result = classify_age(45)
 # print(result)
 
-def is_even(number):
-  if number % 2 == 0:
-    return True
-  else:
-    return False
+# def is_even(number):
+#   if number % 2 == 0:
+#     return True
+#   else:
+#     return False
 
-result = is_even(4)
-print(result)
+# result = is_even(4)
+# print(result)
 
-result = is_even(7)
-print(result)
+# result = is_even(7)
+# print(result)
